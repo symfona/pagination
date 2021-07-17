@@ -1,1 +1,6 @@
-# Symfony Bundle Template
+# Pagination Library
+
+## Installation
+```bash
+composer req symfona/pagination
+```
